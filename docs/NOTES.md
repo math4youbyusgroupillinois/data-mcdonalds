@@ -1,12 +1,12 @@
 # NOTES
 
-## DATA SOURCE
+#### DATA SOURCE
   + `nutritionfacts.pdf` - from http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf
 
-## DESIGN
+#### DESIGN
   + `algo-pffy-data-mcdonalds.md` - pre-process algorithms for ETL proposed in EVT phase.
 
-## PROCESS
+#### PROCESS
   + `source-data-mcdonalds-nutrition-facts.txt` - pdf to text data conversion.
   + `pffy-data-mcdonalds-nutrition-facts.txt` - intermediate data dump 1
     + pre-process algorithms refined in DVT phase. this file is the result.
